@@ -12,8 +12,6 @@ A modern, user-friendly e-commerce web application built with Flask, Bootstrap, 
 - Flash messages for user feedback
 - Mobile-friendly, clean Bootstrap 5 UI
 
-## Screenshots
-> Add screenshots of the home, cart, and order history pages here
 
 ## Project Structure
 ```
